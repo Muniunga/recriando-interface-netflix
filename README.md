@@ -1,2 +1,1 @@
-# aula_javascript
-Introdução ao Javascript
+# Recriando a interface do netflix
